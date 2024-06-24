@@ -1,4 +1,4 @@
-# Full Stack Food Delivery Website
+# Full Stack Food Delivery Website 🍽️
 
 Welcome to the Full Stack Food Delivery Website project! This project is a comprehensive web application designed to provide a seamless food ordering experience. It is built using modern web development technologies including React JS for the frontend, Node.js and Express for the backend, MongoDB for the database, and Stripe for payment processing.
 
